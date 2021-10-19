@@ -1,2 +1,2 @@
 # v1.1
-C++  
+Mini game by using c++ language
